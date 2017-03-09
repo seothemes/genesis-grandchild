@@ -1,0 +1,1 @@
+<?php/** * Sample Page Template * * This file is an example of how to add custom page templates * to the Genesis Grandchild theme. */// Default template.genesis();
